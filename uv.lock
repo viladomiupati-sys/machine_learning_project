@@ -6,6 +6,17 @@ resolution-markers = [
     "python_full_version < '3.14'",
 ]
 
+[manifest]
+members = [
+    "amazon-sales-forecast",
+    "machine-learning-project",
+]
+
+[[package]]
+name = "amazon-sales-forecast"
+version = "0.1.0"
+source = { virtual = "amazon-sales-forecast" }
+
 [[package]]
 name = "anyio"
 version = "4.12.1"
