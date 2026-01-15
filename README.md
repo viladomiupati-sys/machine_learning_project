@@ -16,7 +16,7 @@ Predict order profitability, delivery performance using historical Amazon sales 
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![uv](https://img.shields.io/badge/uv-Environment-4CAF50)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau&logoColor=white)
+
 
 
 ---
