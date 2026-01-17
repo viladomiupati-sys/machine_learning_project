@@ -5,9 +5,13 @@
 Predict order profitability, delivery performance using historical Amazon sales data.
 
 ### Models Used
+<<<<<<< HEAD
 - Classification 
 - Regression 
 
+=======
+- KNN
+>>>>>>> a921f97fbc0bfe5f78338319c94baeaeb7fc2100
 
 ---
 ## 🛠️ Tech Stack & Tools
@@ -28,6 +32,7 @@ Predict order profitability, delivery performance using historical Amazon sales 
 We are a team of data analysts who work with data from start to finish, cleaning it, analyzing it, and presenting insights in a clear and meaningful way. Using an Amazon Sales Dataset to buy utilising machine learning
 
 
+<<<<<<< HEAD
 The presentation is available [here](https://docs.google.com/presentation/d/1pEoHlY-TL9XRBMv-8FPQ0ayIoanmZgWjiAP6bJcH5rA/edit?slide=id.g104f1bc08d3_2_74#slide=id.g104f1bc08d3_2_74).
 ---
 
@@ -113,3 +118,11 @@ These results show the value of machine learning for real world analysis while e
 ## 👥 Team
 
 Alan, Pati, Pedro, Charul.
+=======
+The presentation is available [here](Insert when done).
+---
+Tableau dashboard and sheets available [here](Insert when done).
+---
+Video Introduction [here](Insert when done).
+---
+>>>>>>> a921f97fbc0bfe5f78338319c94baeaeb7fc2100
